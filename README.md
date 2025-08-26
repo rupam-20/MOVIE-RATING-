@@ -17,8 +17,7 @@ The dataset contains the following fields:
 - **MovieID** : Unique identifier for each movie  
 - **Title** : Name of the movie  
 - **Genre** : Primary genre(s) of the movie  
-- **Rating** : Movie rating (e.g., G, PG, R, TV-MA)  
-- **Reviews** : (Optional if available)
+- **Rating** : Movie rating (e.g., G, PG, R, TV-MA) 
 
 ---
 
@@ -29,6 +28,7 @@ git clone https://github.com/your-username/movie-ratings-analysis.git
 cd movie-ratings-analysis
 pip install -r requirements.txt
 
+---
 
 ##🖼️ Example Output
 
